@@ -1,2 +1,15 @@
 # Goal_LogoAnimation_SwiftUI
-This is a learning project in Swift UI to draw and animate famous football online magazine goal.com logo.
+
+<h3>This is one of my learning project in Swift UI.
+<p><br>
+⚽ A simple project to draw and animate famous football news website <a href="https://www.goal.com/">goal.com</a> logo.⚽</p>
+<br>
+
+  
+  
+
+
+
+
+
+
